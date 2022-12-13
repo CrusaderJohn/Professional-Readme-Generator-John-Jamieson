@@ -1,14 +1,13 @@
-# Work-Day-Scheduler-John-Jamieson
+# Professional-Readme-Generator-John-Jamieson
 
 ## Description
 
-A simple calendar application that allows users to save events for each hour of the day.
-This app uses dynamically updated HTML and CSS powered by jQuery.
+A command-line application to generate a README file.
 
-## Screenshot
+## Video Demonstrating the Application
 
-![Demo Screenshot](screenshot.png)
+[Video Demo](https://drive.google.com/file/d/1HIOsGpdhb1-M9YErgJFT7N5DLc2aJ_Xk/view)
 
-## Link to Deployed Application
+## Sample README.md File
 
-[Deployed Application](https://crusaderjohn.github.io/Work-Day-Scheduler-John-Jamieson/)
+[Sample File](./Output/Best-Project.md)
