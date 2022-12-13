@@ -70,7 +70,7 @@ function init()
                 message: questions[7],
             },
             {
-                type: 'checkbox',
+                type: 'list',
                 message: questions[8],
                 name: 'license',
                 choices: ['MIT', 'Mozilla', 'GNU', 'No Licence'],
